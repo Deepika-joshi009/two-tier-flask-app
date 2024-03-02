@@ -17,6 +17,7 @@ Before you begin, make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    ```
+![image](https://github.com/Deepika-joshi009/two-tier-flask-app/assets/148712683/4507d725-7727-4c12-b2df-57a2bb05d741)
 
 2. Navigate to the project directory:
 
@@ -67,6 +68,8 @@ Before you begin, make sure you have the following installed:
 
    - Visit http://localhost to see the frontend. You can submit new messages using the form.
    - Visit http://localhost:5000/insert_sql to insert a message directly into the `messages` table via an SQL query.
+![image](https://github.com/Deepika-joshi009/two-tier-flask-app/assets/148712683/2c9a1c78-c6bc-4da5-ae49-dc5c242c9663)
+![image](https://github.com/Deepika-joshi009/two-tier-flask-app/assets/148712683/391dc0c6-c1c1-4a6c-ad44-7bfed1048be3)
 
 ## Cleaning Up
 
@@ -115,6 +118,7 @@ docker run -d \
     -p 5000:5000 \
     flaskapp:latest
 
+![image](https://github.com/Deepika-joshi009/two-tier-flask-app/assets/148712683/74fc738a-ecb0-45c3-aec5-8bf5294933dc)
 ```
 ![image](https://github.com/Deepika-joshi009/two-tier-flask-app/assets/148712683/d893412f-9097-46fb-890e-71819ad1523d)
 
