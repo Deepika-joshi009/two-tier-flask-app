@@ -116,6 +116,7 @@ docker run -d \
     flaskapp:latest
 
 ```
+![image](https://github.com/Deepika-joshi009/two-tier-flask-app/assets/148712683/d893412f-9097-46fb-890e-71819ad1523d)
 
 ## Notes
 
